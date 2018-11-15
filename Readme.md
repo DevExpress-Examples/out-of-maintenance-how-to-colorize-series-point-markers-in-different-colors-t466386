@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/ColorizerExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ColorizerExample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to colorize series point markers in different colors
 
 
